@@ -30,6 +30,6 @@
 
 <p> Exercicio para transformar números em Binários. <a href="Codewars__27_06_2024/src/foundats/Binary.java">Clique para ver o código</a></p>
 
-## Transforma textos em maiusculos
+### Transforma textos em maiusculos
 
 <p> Este exercicio retorna a palavra digitada em maiusculo. <a href="Codewars__27_06_2024/src/foundats/Maiusculo.java">Clique aqui para ver o código</a></p>
